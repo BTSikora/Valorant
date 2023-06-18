@@ -1,2 +1,5 @@
 pandas==2.0.2
 numpy==1.25.0
+valorant==1.0.4
+python-dotenv==1.0.0
+requests==2.31.0
